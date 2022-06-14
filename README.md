@@ -1,24 +1,8 @@
 # **Proyecto Back-end**
 ![GitHub repo size](https://img.shields.io/github/repo-size/alex-vinicio/backtarea)
 <picture>
-<<<<<<< HEAD
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.blogs.es/53044d/java/1366_521.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.blogs.es/53044d/java/1366_521.jpg">
-  <img style="width:150px" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.blogs.es/53044d/java/1366_521.jpg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ubunlog.com/wp-content/uploads/2018/07/postgresql.jpeg">
-  <source media="(prefers-color-scheme: light)" srcset="https://ubunlog.com/wp-content/uploads/2018/07/postgresql.jpeg">
-  <img style="width:125px" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://ubunlog.com/wp-content/uploads/2018/07/postgresql.jpeg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://showmysolution.com/wp-content/uploads/2019/04/1_jMQ9lkY5SBnbcOlJB4aizg.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://showmysolution.com/wp-content/uploads/2019/04/1_jMQ9lkY5SBnbcOlJB4aizg.png">
-  <img style="width:200px" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://showmysolution.com/wp-content/uploads/2019/04/1_jMQ9lkY5SBnbcOlJB4aizg.png">
-=======
 
   <img style="width:150px" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
->>>>>>> 3f0bbe9bb55c7aeb0be71524f519ab8f68db5477
 </picture>
 
 ## **Descripcion**
