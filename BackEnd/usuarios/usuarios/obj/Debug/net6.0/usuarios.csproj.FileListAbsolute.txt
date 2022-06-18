@@ -1,0 +1,15 @@
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\bin\Debug\net6.0\usuarios.exe
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\bin\Debug\net6.0\usuarios.deps.json
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\bin\Debug\net6.0\usuarios.runtimeconfig.json
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\bin\Debug\net6.0\usuarios.dll
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\bin\Debug\net6.0\usuarios.pdb
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\obj\Debug\net6.0\usuarios.csproj.AssemblyReference.cache
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\obj\Debug\net6.0\usuarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\obj\Debug\net6.0\usuarios.AssemblyInfoInputs.cache
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\obj\Debug\net6.0\usuarios.AssemblyInfo.cs
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\obj\Debug\net6.0\usuarios.csproj.CoreCompileInputs.cache
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\obj\Debug\net6.0\usuarios.dll
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\obj\Debug\net6.0\refint\usuarios.dll
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\obj\Debug\net6.0\usuarios.pdb
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\obj\Debug\net6.0\usuarios.genruntimeconfig.cache
+D:\Curso Banco Pichincha\backBP\usuarios\usuarios\obj\Debug\net6.0\ref\usuarios.dll

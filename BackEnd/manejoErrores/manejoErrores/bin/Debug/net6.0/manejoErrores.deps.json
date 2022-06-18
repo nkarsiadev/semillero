@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "manejoErrores/1.0.0": {
+        "runtime": {
+          "manejoErrores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "manejoErrores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

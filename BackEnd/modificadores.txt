@@ -1,0 +1,70 @@
+public class modificadores {
+    
+     private int cantidadUno;
+    private int cantidadDos;
+    private int resultado;
+    private int cantidadU;
+    private int cantidadD;
+    private int result;
+
+    public modificadores(int cantidadUno, int cantidadDos, int resultado, int cantidadU, int cantidadD, int result) {
+        this.cantidadUno = cantidadUno;
+        this.cantidadDos = cantidadDos;
+        this.resultado = resultado;
+        this.cantidadU = cantidadU;
+        this.cantidadD = cantidadD;
+        this.result = result;
+    }
+
+    public int getCantidadUno() {
+        return cantidadUno;
+    }
+
+    public void setCantidadUno(int cantidadUno) {
+        this.cantidadUno = cantidadUno;
+    }
+
+    public int getCantidadDos() {
+        return cantidadDos;
+    }
+
+    public void setCantidadDos(int cantidadDos) {
+        this.cantidadDos = cantidadDos;
+    }
+
+    public int getResultado() {
+        return resultado;
+    }
+
+    public void setResultado(int resultado) {
+        this.resultado = resultado;
+    }
+
+    public int getCantidadU() {
+        return cantidadU;
+    }
+
+    public void setCantidadU(int cantidadU) {
+        this.cantidadU = cantidadU;
+    }
+
+    public int getCantidadD() {
+        return cantidadD;
+    }
+
+    public void setCantidadD(int cantidadD) {
+        this.cantidadD = cantidadD;
+    }
+
+    public int getResult() {
+        return result;
+    }
+
+    public void setResult(int result) {
+        this.result = result;
+    }
+    
+    
+    
+    
+}
